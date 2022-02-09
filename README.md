@@ -1,6 +1,6 @@
 # curso-basico-js
 
-## Taller #i: figuras geométricas
+## Taller #1: figuras geométricas
 
 - Primer paso: definir las formulas
 - Segundo paso: implementar formulas en JS
@@ -23,3 +23,12 @@ p = d * PI
 #### AREA DEL CIRCULO
 a = r^2 * PI
 
+
+## Taller #2: Porcentajes y Descuentos
+- Primer paso: definir las formulas
+- Segundo paso: implementar formulas en JS
+- Tercer paso: crear funciones
+- Cuarto paso: integrar JS con html
+
+#### Formula para calcular descuentos
+- precio * (100 - descuento) / 100
